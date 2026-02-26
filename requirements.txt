@@ -1,6 +1,6 @@
 feedparser
 pandas
-streamlit
+streamlit>=1.35.0
 google-genai
 beautifulsoup4
 requests
